@@ -1,6 +1,7 @@
 # Description of project
 
 In this project, an A/B test was running to evaluate whether to introduce a change to the trial process (additional window after a click on the button "Start free trial") to reduce the number of people who don't buy a subscription after the trial.
+
 <b> Stages of the experiment </b>
 Experiment Design
 1) Experiment overview and hypothesis formulation
