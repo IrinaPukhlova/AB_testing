@@ -6,7 +6,7 @@ In this project, an A/B test was running to evaluate whether to introduce a chan
 
 Experiment Design
 1) Experiment overview and hypothesis formulation
-2) Choosing unit of diversion
+2) Choosing the unit of diversion
 3) Choosing invariant metrics (for sanity check)
    - Number of cookies: number of unique cookies to view the course overview page;
    - Number of clicks: number of unique cookies to click the "Start free trial" button (which happens before the free trial screener is trigger);
@@ -17,7 +17,7 @@ Experiment Design
    - Net conversion: number of user-ids to remain enrolled past the 14-day boundary (and thus make at least one payment) divided by the number of unique cookies to click the "Start free trial" button.
 7) Measuring Variability (based on standard deviation)
 8) Calculating sample size
-9) Choosing Duration of experiment
+9) Choosing duration of the experiment
 
 Experimental Analysis
 1) Sanity Checks for invariant metrics
