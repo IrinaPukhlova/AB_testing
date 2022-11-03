@@ -3,6 +3,7 @@
 In this project, an A/B test was running to evaluate whether to introduce a change to the trial process (additional window after a click on the button "Start free trial") to reduce the number of people who don't buy a subscription after the trial.
 
 The main analysis is done in the Jupiter Notebook file [AB_testing_project.ipynb](https://github.com/IrinaPukhlova/AB_testing/blob/main/AB_testing_project.ipynb)
+
 <b> Stages of the experiment </b>
 
 Experiment Design
